@@ -304,64 +304,106 @@ i01_head_forheadLeft
 
 我使用 Upol 的聚氨酯汽车填料底漆，但大多数用户没有带气枪的压缩机，因此使用喷雾罐中的汽车填料是另一种选择。
 
+![image](https://github.com/user-attachments/assets/6a21709a-895c-4ebc-8094-ef7d1c9f799e)
 
+![image](https://github.com/user-attachments/assets/651817bd-5fa3-4cf6-b275-2ccc61b25733)
 
 这是成品模具，喷涂时距离模具约60厘米，呈现出皮纹效果。填料到达模具表面时略微干燥，但仍能粘附。
 
+![image](https://github.com/user-attachments/assets/c74215ba-3eab-4bb2-a555-0f054e99eecb)
+
 内模也需喷涂汽车填料，这是为了方便脱模，主要是为了避免硅胶渗透到打印件中。
 
+![image](https://github.com/user-attachments/assets/f6bf7691-3ce2-4922-be23-025679c08229)
 
 中间内模倾斜的目的是为了在硅胶固化后更容易滑出，并压紧两侧内模。在铸造前必须使用脱模剂，例如蜡喷剂。将脱模剂喷洒在模具的所有表面。
 
+![image](https://github.com/user-attachments/assets/488dfdad-b609-4df2-81b5-a4b3616df16a)
+
 您可以使用夹具和一块木头来保持三个部件对齐。您也可以在中间内模的边缘添加两个螺栓。此时，务必密封模具，否则硅胶会泄漏。您可以使用热胶枪或 Kinder Doe 胶水进行密封。不要在模具的顶部边缘使用热胶或 Kinder Doe 胶水，因为我们需要气泡从这些接缝中逸出。
+
+![image](https://github.com/user-attachments/assets/a303c384-3461-4272-a385-0f4b45bbefdc)
 
 这是接收器，您将从这里倒入硅胶。打印件中的任何缝隙，硅胶都会进入那里。您可以在这张图片中看到，打印件非常干净，但孔周围有一些非常小的缝隙。如果您没有将所有缝隙全部密封，硅胶就会从这些缝隙中渗入。
 
+![image](https://github.com/user-attachments/assets/646e6349-3193-4a91-9ae5-52309b6b4b31)
+
 请根据经销商的规格准备硅胶混合物。我推荐 Smooth-On Ecoflex 00-10 硅胶，因为它超级柔软，粘度也很低，正好满足我们的需要。硅胶的混合和倒入时间是 30 分钟。倒入模具容器时，要不停地倒，并且要像下图这样，将硅胶一直倒到容器的顶部。否则，硅胶管里可能会产生气泡，气泡会流进皮肤里。
+
+![image](https://github.com/user-attachments/assets/23885842-a55b-4dbe-a68f-f06f91e1f1b7)
 
 当硅胶到达耳朵的小孔时，就说明硅胶已经满了。但要确保容器一直充满到顶部。硅胶会渗入内模之间的缝隙，所以硅胶的液面可能还会下降。
 
+![image](https://github.com/user-attachments/assets/e3bc03ec-7240-4376-a28a-abb96f003516)
+
 让硅胶固化一夜。然后，你可以用酒精去除热熔胶密封剂，它应该很容易脱落。
+
+![image](https://github.com/user-attachments/assets/297165e3-f235-4e3d-84d9-0a542ed6dc64)
 
 你可以从容器中取出硅胶，然后用剪刀剪掉硅胶管里的硅胶。为了取出内模和硅胶，我用了空气压缩机，它能很好地将硅胶从模具中分离出来。你可以通过耳孔、接收孔以及你认为可能有助于分离皮肤和模具的所有侧面吹气。如果真的无法分离，你可以卸下5个螺栓，然后分离两个外模。
 
+![image](https://github.com/user-attachments/assets/0133854e-f065-462c-9cc4-dc9891b30448)
 
+![image](https://github.com/user-attachments/assets/59f4c631-7e88-44aa-8f47-6f1a33e3c053)
+
+![image](https://github.com/user-attachments/assets/eb66e143-bbf6-4570-abf2-cb6b0e695140)
 
 皮肤分离后，你可以在皮肤表面撒一些婴儿爽身粉（滑石粉）去除粘性。用美工刀或剪刀剪掉所有多余的硅胶接缝。剪刀容易留下凹痕，而且边缘可能不整齐。最好将皮肤放在纸巾上，然后用美工刀精确切割。
 
+![image](https://github.com/user-attachments/assets/53594b4e-57a3-47b2-9b1c-440645267740)
+
 我们将使用少量硅胶或SilPoxy将皮肤固定到活动部件上。首先从眼睑开始，这需要一种特殊的方法，使用双面胶带和弹性乙烯基。鼻子、颧骨和上唇可以用一些粘在皮肤和打印部件上的Velcro魔术贴固定。其余活动部件则用填充在小空腔中并粘在皮肤上的硅胶以某种方式固定。这种方法允许我们在必要时移除皮肤，然后重新粘贴，而无需再次粘合。
+
+![image](https://github.com/user-attachments/assets/a1546a15-f422-4ae6-9955-cadff14ab339)
 
 沿着眼睑边缘贴上小条双面胶带并对齐。确保其粘性良好。为了彻底固定，请使用Sil-Poxy或道康宁732胶水。
 
+![image](https://github.com/user-attachments/assets/b71ea459-7ce8-4bdb-8701-a77cfcf88251)
+
 我使用的乙烯基有一面是布，另一面是塑料。粘贴乙烯基条时，避免将硅胶涂在塑料面上。如果乙烯基不能很好地粘在双面胶带上，则可能有一些硅胶残留物，应使用少许丙酮或一些硅胶去除剂清理干净。
+
+![image](https://github.com/user-attachments/assets/39e9ddc2-1a3d-42b5-900e-156c727c0a48)
 
 用 SilPoxy 或 Dow Corning 732 沿着眼睑边缘将小条乙烯基粘到皮肤内侧（将乙烯基的布料面粘上）。确保对齐。不要制作大条，因为我们要保持皮肤的弹性。您还可以看到用 Silpoxy（或 Dow Corning 732）粘在上唇的 Velcro 条。
 
+![image](https://github.com/user-attachments/assets/18f7d7f3-2346-4b6d-aae9-d19252014944)
+
 将硅胶涂抹在小腔中以形成锚点。
+
+![image](https://github.com/user-attachments/assets/c84b541a-93f1-4dea-b121-698abe437bc3)
 
 在这里您可以看到，我使用了 Velcro 条，当活动部件旋转时，例如眉毛、脸颊拉器、头部，效果不佳。它还增加了 2 毫米的厚度，这会改变面部结构，这就是我不在所有地方都使用它的原因。
 
+![image](https://github.com/user-attachments/assets/cf65ec2c-26d3-4575-a7bd-69a74d25092b)
+
 现在，我们在所有锚点上涂抹一些 SilPoxy（或道康宁 732），并将蒙皮安装到位，确保所有部件都对齐。待硅胶固化后，再尝试移动舵机。
 
-
- 
+![image](https://github.com/user-attachments/assets/6a9574aa-0c36-4226-aea5-80405d92ed2a)
 
 用环氧树脂（双组份胶）将磁铁粘在打印头结构的各个空腔内。确保打印部件中所有磁铁的极性相同。
 
+![image](https://github.com/user-attachments/assets/494e1ea1-bfcd-4592-8d89-956fdcdc29b0)
+
 然后用薄布和 Silpoxy（或道康宁 732）将其他磁铁粘在硅胶皮的空腔中。确保硅胶皮中磁铁的极性与打印部件中的磁铁极性匹配。
 
+![image](https://github.com/user-attachments/assets/31c5dd6c-67a9-4363-a7cd-f19f2e1a8525)
 
+![image](https://github.com/user-attachments/assets/027414f5-ec38-41af-8eb1-214c4881ee8b)
 
 此时，您可以开始在 Myrobotlab 中测试面部表情，看看在机器人上体验有多有趣。
 在 InMoov UI 的控制器部分下，启动 adafruit 16 通道 (pca9685)。
+
+![image](https://github.com/user-attachments/assets/5a63291d-7887-40e4-944b-a1a6cb209105)
 
 如果您的 i01.left 控制器已启动，pca9685 会自动连接到控制器。
 
 要访问 i2Head UI，请点击底部按钮。 然后，您需要启动每个头部舵机，选择 pca9685，并在向下滚动中定义正确的引脚。 完成后，您需要根据舵机的最大范围编辑限制并修改输出限制。 以下是用于测试基本表情的语音命令：
 
+![image](https://github.com/user-attachments/assets/9c952e31-28e2-4590-a2d2-2257c258a150)
 
+![image](https://github.com/user-attachments/assets/019441ee-90a3-4763-89bd-3ed715054209)
 
-
+![image](https://github.com/user-attachments/assets/70ca5f0f-60d9-41a6-b932-0967dee28a16)
 
 中性的
 生气的
