@@ -68,160 +68,165 @@
 
 **i2Head教程**
 
+![image](https://github.com/user-attachments/assets/b6e970bf-d2a1-433e-a783-b2afe66d949b)
+
 使用 4 颗螺丝（3mmx16mm）将 MainGear 和 NeckPlateHigh 组装在一起。
 
+![image](https://github.com/user-attachments/assets/97d609a2-62b6-4974-b1b7-812c8f7f6e35)
 
-
-
+![image](https://github.com/user-attachments/assets/6fa61a11-5d24-48fb-b364-82010607db56)
 
 在顶部添加 ServoGear。
 
-
+![image](https://github.com/user-attachments/assets/fce05f30-5e8f-4bf9-bd26-a8c64dea5cbe)
 
 滑过 GearHolder，确保它可以在两个方向上自由旋转。
 
-
+![image](https://github.com/user-attachments/assets/82d9f9b7-34a2-4543-9ad0-5be1b0658978)
 
 将 GearHolder、FaceHolderRight 和 FaceHolderLeft 粘合在一起。
 
-
+![image](https://github.com/user-attachments/assets/87d1dd6e-a693-4e98-9062-67d2a66dbb3a)
 
 将两个 JawHinge 压入。如果太松，可以用胶水粘住。
 
-
+![image](https://github.com/user-attachments/assets/ec98c917-28c5-4ff0-afcd-69a2645df410)
 
 使用 4 个螺丝（3mmx16mm）安装 TeethTopHolder。
 
-
+![image](https://github.com/user-attachments/assets/45548a65-0ad5-4821-a51f-821479b4101d)
 
 设置两个带有喇叭的伺服器，并确保它们在软件中预设为 90°。（静止位置）
 
-
+![image](https://github.com/user-attachments/assets/0a8c66ae-41a4-49e4-8259-e579f39fd327)
 
 将两个 CheekPuller 固定到伺服喇叭上。
 
-
+![image](https://github.com/user-attachments/assets/38a67d48-b696-4d2d-8fab-94a0fdc1ff1b)
 
 用两颗螺丝（3mmx20mm）组装 TopTeeth。
 
-
+![image](https://github.com/user-attachments/assets/aba7b8e6-8b7e-45d3-86b3-a665403aa143)
 
 获得两个 JawSupport。
 
-
+![image](https://github.com/user-attachments/assets/58e963e1-6dbf-41d9-a2e7-45d8edebcb03)
 
 用 4 个螺丝（3mmx10mm + 螺栓）固定钳口，或者将各个部件粘在一起。
 
-
+![image](https://github.com/user-attachments/assets/0cade5e1-5cfb-4e94-ae90-3d1f16d1c99a)
 
 用 2 颗螺丝将 BottomTeeth 固定到 Jaw 上。（3mmx16mm）
 
-
+![image](https://github.com/user-attachments/assets/7d4c265f-8ce0-4a6e-bb88-42fc317f7ed1)
 
 将组件卡在 JawHinge 上。它应该可以自由移动。牙齿应该可以完美闭合。
 
-
+![image](https://github.com/user-attachments/assets/c526f30c-6dd4-4ac7-9968-9d06068df1d2)
 
 使用两颗螺丝添加 LowBack。（3mmx16mm）
 
-
+![image](https://github.com/user-attachments/assets/29108ac4-d990-4414-94f6-bcb66cc33a68)
 
 按下环，确保孔与 MainGear 的孔对齐。只需从侧面安装 2 颗螺丝即可。（3 毫米 x 16 毫米）
 
-
+![image](https://github.com/user-attachments/assets/7bd1b3d4-2b09-4040-a8df-49a5b4c00fd2)
 
 如果您使用的是 HS805BB 伺服电机，请在软件中将喇叭预设为 90%。在喇叭和伺服齿轮之间添加 2 个螺丝（小木螺钉）。
 
-
+![image](https://github.com/user-attachments/assets/09e5f622-e8db-44bd-a3e6-8c8fcbbd5261)
 
 如果您使用的是小型舵机（JX PDI 6221MG 180°），请在软件中将舵角预设为 90%。您需要使用 ServoAdapter 和 ServoHorn Adapter 进行组装。在舵角和 ServoGear 之间添加 2 颗螺丝（小木螺钉）。
 
-
+![image](https://github.com/user-attachments/assets/75a3d181-2a39-437e-ace4-92619e819911)
 
 按下 SkullServoFix。使用 4 颗螺丝（木螺丝）将 SkullServoFix、舵机和 GearHolder 固定在一起。
 
-
+![image](https://github.com/user-attachments/assets/e7dd1fc9-2701-4eaf-8917-a47b74515fb3)
 
 将喇叭安装到伺服器（JX PDI 6221MG 180°）上，并在软件中将其预设为 90°。用 4 颗螺丝（小型伺服螺丝）固定 JawPiston。将 JawPiston 插入 NoSupport。当伺服器需要通过软件旋转时，它需要能够打开和闭合下巴。
 
-
+![image](https://github.com/user-attachments/assets/942516d0-6511-4eae-8d08-b69397c8ec14)
 
 如下图所示，用两颗螺丝（小螺丝）安装一个舵机。确保在软件中将舵机预设为 90°，并安装好喇叭。
 
-
+![image](https://github.com/user-attachments/assets/9e725449-ae02-4488-ba0e-5946d0c67c23)
 
 用 2 个螺丝（小伺服螺丝）将其固定到喇叭上唇上。
 
-
+![image](https://github.com/user-attachments/assets/b332e39d-3cac-42ef-82e8-4c5b022e7b3c)
 
 添加左眼组件。并用4个螺丝（小木螺丝）固定。
 
-
+![image](https://github.com/user-attachments/assets/9c72102f-7503-422c-9265-1a8455bf3239)
 
 安装右侧眼罩组件，并用 4 颗螺丝（小木螺钉）固定。眼罩组件上方留出空间，可用 2 颗小螺丝安装摄像头驱动板。确保摄像头线缆穿过眼罩和驱动板之间，确保眼罩可以自由移动。
 
+![image](https://github.com/user-attachments/assets/388a2487-5f52-4ebb-ae65-f9b25b2ad55b)
 
-
-
+![image](https://github.com/user-attachments/assets/5051c56b-6a14-4498-a2cb-5f34eeda3d8b)
 
 使用 2 个螺丝（3mmx16mm）添加 ForHeadSupport。
 
-
+![image](https://github.com/user-attachments/assets/3e16d9ee-bf85-4a7e-a940-9e84deac302d)
 
 使用胶水或 4 个螺丝将 EyeBrowSupport 与 ForHeadSupport 一起安装。
 
-
+![image](https://github.com/user-attachments/assets/2aaa1cdb-a6b5-4c74-8d8a-3a1bcf5f3598)
 
 用螺丝（小号伺服螺丝）安装眉毛的两个伺服器。确保在软件中将伺服器预设为 90°，并安装好喇叭。
 
-
+![image](https://github.com/user-attachments/assets/5f50da59-7ff4-4fa0-9c4d-c1ec6f8e1cf0)
 
 用 2 个螺丝将每个眉毛固定到喇叭上。（小伺服螺丝）
 
-
+![image](https://github.com/user-attachments/assets/28e40599-ede5-4613-8e79-d8e8da61b357)
 
 将舵机和螺丝安装到 ForHeadSupport 上。确保在软件中将舵机预设为 90°，并安装好喇叭。
 
-
+![image](https://github.com/user-attachments/assets/d7605449-d2a8-427d-83ea-c4f6d14e410d)
 
 分别用 2 个螺丝将每个 ForHead 固定到喇叭上。（小伺服螺丝）
 
-
+![image](https://github.com/user-attachments/assets/153ddd11-024a-447b-b7d9-e2d1931a16ef)
 
 此时，您可能需要安装并固定 PCA9685 板及其支架，以及两个迷你分线板。（眼睛嘴巴）
 
+![image](https://github.com/user-attachments/assets/e0ce9a7c-7dd3-4b1e-a69e-3c30c9484a81)
 
-
+![image](https://github.com/user-attachments/assets/08a954ec-1416-44ef-a9d5-c51e931743fd)
 
 您可以根据此 Excel 表开始连接伺服引脚：引脚编号连接
 
+![image](https://github.com/user-attachments/assets/1c351199-5a8c-47cf-94d4-c5c8ea915e93)
+
 PCA9685 直接连接到左侧神经板上的 i2C 引脚。使用下图所示的 5V 引脚。请注意极性和引脚编号。您可以使用 XT60 电源为 PCA9685 伺服连接器供电。我使用与迷你分线板相同的带状电缆进行引脚连接，并使用一些 12 号线进行电源连接。
 
+ ![image](https://github.com/user-attachments/assets/bf0aa177-c9d1-47f4-a408-bf66229b4f4e)
 
- 
-
-
+![image](https://github.com/user-attachments/assets/992a1596-bc72-4781-abbb-c61fac52a19e)
 
 用2颗螺丝（3mmx16mm）分别固定两个TopBackSkull。最好在TopBackSkull内侧加装螺栓。我用小火加热螺栓，然后用钳子将其压入螺栓腔内，确保不会掉落。
 
-
+![image](https://github.com/user-attachments/assets/c2dac61f-b8f8-4259-80e7-aab2945d5421)
 
 TopSkull 的安装步骤相同。顶部两颗螺丝尺寸为 4mmx20mm。
 
-TopSkullFront 的过程相同。
-
-
+![image](https://github.com/user-attachments/assets/50397542-2db0-4038-863d-b56ac53a7d73)
 
 TopSkullFront 的过程相同。
 
+![image](https://github.com/user-attachments/assets/ed2242e2-589f-450e-af19-0d646b819d9d)
 
+TopSkullFront 的过程相同。
+
+![image](https://github.com/user-attachments/assets/3a10958b-524d-46bd-a68a-97257ef352e6)
 
 用螺钉（3mmx16mm）分别在两侧添加 EarLock。
 
-
+![image](https://github.com/user-attachments/assets/98659aec-5528-4a8b-81aa-f8c9d2314191)
 
  
-
 请注意，i2Eyes 与原始 eyeX 和 eyeY 同步。
 
 i2Eyelids 也与原始眼睑伺服器同步。
@@ -231,6 +236,7 @@ i2Eyelids 也与原始眼睑伺服器同步。
 以下是新伺服器的名称列表：
 
 **眼睛**
+
 i01_head_eyeLeftUD
 
 i01_head_eyeLeftLR
@@ -240,28 +246,39 @@ i01_head_eyeRightUD
 i01_head_eyeRightLR
 
 **眼睑**
+
 i01_head_eyelidLeftUpper
+
 i01_head_eyelidLeftLower
+
 i01_head_eyelidRightUpper
+
 i01_head_eyelidRightLower
 
 **眉毛**
+
 i01_head_eyebrowRight
+
 i01_head_eyebrowLeft
 
 **脸颊**
+
 i01_head_cheekRight
+
 i01_head_cheekLeft
 
 **上唇**
+
 i01_head_upperLip
 
 **头部**
+
 i01_head_forheadRight
+
 i01_head_forheadLeft
 
 
-i2Head 模具教程：
+**i2Head 模具教程：**
  
 
 我打印的模型厚度是0.4毫米，用的是一台老款的BFB 3D打印机，这也是为什么我的模具看起来很糟糕的原因。后来我喷了汽车填充剂，打磨了一下，最后用干净的汽车填充剂喷雾完成了。即使你的打印件看起来很干净，你也应该使用汽车填充剂。硅胶很薄，很容易渗透到打印件表面。所以，500/600克的硅胶用量不够。
@@ -271,16 +288,19 @@ i2Head 模具教程：
 三个内模不要粘在一起或者互相粘贴，否则将无法将皮和内模从外模上取下来。
 中间有角度的内模的目的是为了在硅胶固化后能够更容易地滑出。
  
-
+![image](https://github.com/user-attachments/assets/83f398d4-f9d4-44aa-b3a5-381ff2ba6a3a)
 
 用螺栓将两个外模固定在一起。通常情况下，外模不会再拆卸。螺栓有助于对齐。
 
+![image](https://github.com/user-attachments/assets/0d826153-8a90-4a58-95ef-8f5b10e6d825)
 
 用汽车填料填充两个部件之间的缝隙。之后，这条分离线应该看不见了。我用的是粗砂纸。
 
+![image](https://github.com/user-attachments/assets/7bbe761d-d8c5-4b74-8a22-6ff096728319)
 
 如果您的模具是干净的，您可以使用 400 号颗粒。我必须先使用 80 号颗粒->喷涂汽车填料->150 号颗粒->喷涂汽车填料->400 号颗粒->从远处喷涂最后一层汽车填料，以产生颗粒状的皮肤效果。
 
+![image](https://github.com/user-attachments/assets/bd919388-714d-433f-be93-06593fc16960)
 
 我使用 Upol 的聚氨酯汽车填料底漆，但大多数用户没有带气枪的压缩机，因此使用喷雾罐中的汽车填料是另一种选择。
 
