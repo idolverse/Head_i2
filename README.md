@@ -230,30 +230,33 @@ i2Eyelids 也与原始眼睑伺服器同步。
 
 以下是新伺服器的名称列表：
 
-## 眼睛
+**眼睛**
 i01_head_eyeLeftUD
+
 i01_head_eyeLeftLR
+
 i01_head_eyeRightUD
+
 i01_head_eyeRightLR
 
-## 眼睑
+**眼睑**
 i01_head_eyelidLeftUpper
 i01_head_eyelidLeftLower
 i01_head_eyelidRightUpper
 i01_head_eyelidRightLower
 
-## 眉毛
+**眉毛**
 i01_head_eyebrowRight
 i01_head_eyebrowLeft
 
-## 脸颊
+**脸颊**
 i01_head_cheekRight
 i01_head_cheekLeft
 
-## 上唇
+**上唇**
 i01_head_upperLip
 
-## 头部
+**头部**
 i01_head_forheadRight
 i01_head_forheadLeft
 
