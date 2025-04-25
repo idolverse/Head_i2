@@ -11,14 +11,23 @@
 铸造前必须使用脱模剂，例如蜡喷剂。型号：Alchemie R5。
 
 1 PCA9685（adafruit 16通道）
+
 15 个伺服器 JX PDI 1109MG（避免使用廉价的 SG90，它们不会持续很长时间）
+
 2个伺服器 JX PDI 6221MG
+
 28块钕磁铁，10×1.5mm
+
 1 或 2 个微型摄像头（选择带自动对焦的 type2）https://fr.aliexpress.com/item/1005004200917640.html?spm=a2g0o.order_list.order_list_main.76.40465e5b637U38&gatewayAdapt=glo2fra
+
 6 x M3 六角螺母
+
 6 x M3 x 14mm 沉头螺钉
+
 6 x 0.8 x 6mm 长自攻螺钉
+
 4 x 十字槽头 4g x 6.5mm 自攻沉头螺钉
+
 2 x M3 x 20mm 长螺丝
 
 <h2>i2Head教程</h2>
@@ -26,31 +35,57 @@
 以下是头部所需的零件清单和打印数量：
 
 1x BottomTeeth
+
 1x CheekPuller
+
 1x EarLock (添加支撑)
+
 1x EyebrowSupport
+
 1x Eyebrow
+
 1x FaceHolderLeft
+
 1x FaceHolderRight
+
 1x ForHeadSupport
+
 1x ForHeads
+
 1x GearHolder
+
 1x JawHinge
+
 1x JawPiston (添加支撑)
+
 1x JawSupport
+
 1x Jaw
+
 1x LowBack (兼容原装头)
+
 1x MainGear (兼容原装头)
+
 1x UpperLip
+
 1x Ring (兼容原装头)
+
 1x ServoGear (兼容原装头)
+
 1x SkullServoFix
+
 1x TeethTopHolder
+
 1x TopBackskull (兼容原装头)
+
 1x TopTeeth
+
 1x TopskullFront
+
 1x Topskull (兼容原装头)
+
 1x servoAdapter (仅当您使用比 HS805BB 更小的伺服器来旋转头部时)
+
 1x servoHornAdapter (仅当您使用比 HS805BB 更小的伺服器来旋转头部时)
 
 以 30% 的填充率、2 毫米的壁厚进行打印，检查需要支撑的部分。
@@ -58,10 +93,15 @@
 以下是模具所需的零件清单和打印数量，选择“Male”或“Female”：
 
 1x InnerMiddleMold
+
 1x InnerSidesMold
+
 1x OuterBottomMoldFemale（添加支撑）
+
 1x OuterBottomMoldMale（添加支撑）
+
 1x OuterTopMoldFemale（添加支撑）
+
 1x OuterTopMoldMale（添加支撑）
 
 以 15% 的填充率、壁厚 2 毫米进行打印，检查需要支撑的部分。
